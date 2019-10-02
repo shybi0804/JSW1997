@@ -1,0 +1,27 @@
+독립 Agent
+
+:::
+Main
+{building}
+
+AirCondition 
+Computer
+{}
+lightbulb
+others{빔프로젝트}
+
+aisle()
+
+Floor {
+1,2,3,4,5
+ClassRoom()
+	}
+Building{
+1,2,3,4,5,6,7
+floor()
+	}
+ClassRoom
+{
+AirCondition
+Computer
+}

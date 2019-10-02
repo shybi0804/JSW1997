@@ -1,0 +1,19 @@
+Main
+( Building ( Floor,Aisle(Light bulb) ( ClassRoom ( Computer,Light bulb,AirCondition,Others))))
+
+
+ClassRoom(10)
+
+Floor(5)
+
+Building(7)
+
+Computer(독립)
+
+AirCondition(독립)
+
+Light bulb(독립)
+
+Others;(독립)
+
+Aisle(1)
